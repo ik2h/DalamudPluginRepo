@@ -1,4 +1,3 @@
-# DalamudPluginRepo
 ## Copy from UnknownX7
 
 Compatibility with Patch 6.1
